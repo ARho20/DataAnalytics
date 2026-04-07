@@ -1,0 +1,58 @@
+1.Before doing any other investigation, list two or three questions that this infographic and explanation of methodology raise in your mind.
+
+Are these the same popular food items across each town in every state ? 
+
+Does that time of year affect the search for food trends ?
+
+2. Where can you find Google Trends search data? Provide the URL.
+
+https://trends.google.com/trends/
+
+3. Searched in Google Trends : Milkshake (Beverage) Location: U.S. Time: 02/01/24-02/28/25
+
+a) What is the highest peak recorded in the line chart for "interest over time" ?
+
+100 
+
+b) What is the lowest dip record?
+
+65
+
+4. At the top next to the box for "Milkshake," there is a plus sign to add another search term. Click the plus sign to add a search for Hamburger (Food).
+
+a) What is the highest point and lowest dip recorded for searched using Hamburger?
+
+Highest: 100  Lowest: 68
+ 
+b) What happened to the line for Milkshake? What do the high and low look like now?
+
+ The line for Milkshake moved down and the high and low numbers dropped significantly
+
+5. Why did the line for the Milkshake change? 
+
+According to the information icon the Milkshake line changed because Google trends adjust the data when other search terms are compared.
+
+6.  Add a third term to your search, this time for Breakup (Topic).
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup and Hamburger?
+
+The search for Hamburger is significantly higher and the pattern compared the pattern compared to the breakup term search is much different.
+
+b) How about between Breakup and Milkshake?
+
+Although they are closer together on the google trends graph, the patterns are not consistent with each other.
+
+7. What does all of this suggest about the reliability of the conclusions reached in the article?
+
+This suggests that conclusions in this article may not be correct because there isn't a clear connection between the trends.
+
+8. a) What was the top state by interest for Milkshake?
+
+Delaware
+
+b) What was the top state by interest for Hamburger?
+
+South Dakota
+
+9. Saved download to Excel
+ 
