@@ -1,0 +1,41 @@
+[
+	{
+		"Id" : 1,
+		"Start time" : "4/13/2026 11:58",
+		"Completion time" : "4/13/2026 11:59",
+		"Email" : "anonymous",
+		"Good_Price_Ranges" : "Yes",
+		"order_time of day" : "Daytime",
+		"Customer_Experience" : 4,
+		"taste_rating" : 5,
+		"Customer_rewards" : "Free Cookies",
+		"order_frequency" : "Weekly",
+		"recommend_friend" : 5
+	},
+	{
+		"Id" : 2,
+		"Start time" : "4/13/2026 14:04",
+		"Completion time" : "4/13/2026 14:05",
+		"Email" : "anonymous",
+		"Good_Price_Ranges" : "Yes",
+		"order_time of day" : "Evening",
+		"Customer_Experience" : 4,
+		"taste_rating" : 4,
+		"Customer_rewards" : "Discounts",
+		"order_frequency" : "Monthly",
+		"recommend_friend" : 5
+	},
+	{
+		"Id" : 3,
+		"Start time" : "4/13/2026 15:28",
+		"Completion time" : "4/13/2026 15:29",
+		"Email" : "anonymous",
+		"Good_Price_Ranges" : "Yes",
+		"order_time of day" : "Insomnia hours",
+		"Customer_Experience" : 4,
+		"taste_rating" : 4,
+		"Customer_rewards" : "Free Cookies",
+		"order_frequency" : "Once in a Blue Moon",
+		"recommend_friend" : 4
+	}
+]

@@ -1,0 +1,4 @@
+Id,Start time,Completion time,Email,Good_Price_Ranges,order_time of day,Customer_Experience,taste_rating,Customer_rewards,order_frequency,recommend_friend
+1,4/13/2026 11:58,4/13/2026 11:59,anonymous,Yes,Daytime,4,5,Free Cookies,Weekly,5
+2,4/13/2026 14:04,4/13/2026 14:05,anonymous,Yes,Evening,4,4,Discounts,Monthly,5
+3,4/13/2026 15:28,4/13/2026 15:29,anonymous,Yes,Insomnia hours,4,4,Free Cookies,Once in a Blue Moon,4
