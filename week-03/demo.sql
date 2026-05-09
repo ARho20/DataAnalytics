@@ -23,3 +23,22 @@ LEFT JOIN Orders o ON c.CustomerID = o.CustomerID
 GROUP BY c.CompanyName
 ORDER BY 'Order Count' ASC
 LIMIT 5;
+
+SELECT COUNT(*) AS Total_orders
+FROM orders;
+
+SELECT SUM(Freight) AS Total_Freight,
+AVERAGE(Freight) AS Average_Freight,
+MIN(Freight) AS Min_Freight,
+MAX(Freight) AS Max_Freight
+FROM orders;
+
+-- part 3B
+-- question 1
+SELECT ProductID, ProductName, UnitPrice, UnitsInStock 
+FROM Products
+ORDER BY UnitPrice DESC;
+-- question 2
+SELECT COUNT(*) CustomerID
+FROM Customers
+
