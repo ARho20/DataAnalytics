@@ -1,0 +1,41 @@
+Northwind Review Notes
+
+The Northwind database represents information from a sample company called Northwind Traders. The database is split into different tables to organize information and avoid repeating the same data.
+
+Each table stores a different type of information. For example, Customers stores customer details, Products stores items being sold, and Orders stores purchases that customers made.
+
+The amount of records in each table makes sense because some areas have more activity than others. Order Details has a lot more rows because one order can include multiple products, while tables like Categories and Shippers only need a few records.
+
+Primary keys are used to identify unique records in a table. Some examples are:
+
+- CustomerID for Customers
+
+- ProductID for Products
+
+- OrderID for Orders
+
+Foreign keys are used to connect tables together. For example:
+
+- CustomerID connects Customers and Orders
+
+- ProductID connects Products and Order Details
+
+- CategoryID connects Products and Categories
+
+Some useful columns for a Power BI report would be dates, products, customers, prices, and quantities because they can help answer business questions about sales and performance.
+
+Most column names were easy to understand. If I renamed anything, I would make some names more specific so it is clear what table they belong to.
+
+The data types would depend on the information:
+
+- Names/descriptions = Text
+
+- Dates = Date/Time
+
+- Prices = Currency
+
+- Quantities = Whole Number
+
+Some calculations that could be created from this data include total sales, number of orders, average order value, and product performance.
+
+The database diagram shows how the tables are related. Seeing the relationships makes it easier to understand how the data connects before using it in Power BI
